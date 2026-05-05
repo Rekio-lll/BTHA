@@ -1,3 +1,3 @@
 # BTHA：Block-then-Hash Attention for Efficient Long-Context
 
-The code is about to be open-sourced
+The code is about to be open-sourced...
